@@ -1,7 +1,7 @@
 # Scratch
 A Simple Note Taking App: It is a single page application powered by a serverless API written completely in JavaScript. 
 
-#Why Serverless App?
+# Why Serverless App?
 It is important to address why it is worth learning how to create serverless apps. There are a couple of reasons why serverless apps are favored over traditional server hosted apps.
 
 - Low maintenance
