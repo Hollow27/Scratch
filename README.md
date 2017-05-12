@@ -62,3 +62,7 @@ For the frontend:
 - Configure CloudFront to serve out our app
 - Point our domain with Route 53 to CloudFront
 - Set up SSL to serve our app over HTTPS
+
+All credits go to Jay and Frank at www.serverless-stack.com
+
+Appreciate what you two are doing!
